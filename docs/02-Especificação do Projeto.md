@@ -8,19 +8,32 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Nessa perspectiva, apresentamos algumas personas para auxiliar na visualização do benefício que nosso site pode ter no cotidiano das pessoas:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+**Nome:** Sophia Oliveira  
+**Usuário Individual - Iniciante em Segurança Cibernética**  
+**Idade:** 30 anos  
+Sophia é uma professora do ensino médio que usa a internet diariamente para preparar aulas, fazer compras online e interagir nas redes sociais. Ela está ciente de que existem riscos de segurança na internet, mas não tem muito conhecimento sobre como se proteger contra eles. Ela está interessada em aprender mais sobre segurança da informação para proteger suas informações pessoais e profissionais.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Nome:** Breno Silva  
+**Profissional de TI - Interessado em Notícias e Atualizações**  
+**Idade:** 35 anos  
+Breno trabalha como analista de segurança da informação em uma empresa de médio porte. Ele tem um bom entendimento dos conceitos básicos de segurança cibernética, mas está sempre procurando por notícias atualizações sobre as últimas ameaças e tendências. Ele está interessado em fontes confiáveis de informação que possam ajudá-lo a manter-se atualizado no campo em constante evolução da segurança da informação.
+
+**Nome:** Tiago Santos  
+**Estudante de Segurança da Informação - Procurando Recursos de Aprendizado**  
+**Idade:** 22 anos  
+Tiago está atualmente estudando segurança da informação na universidade e está interessado em se tornar um profissional neste campo. Ele está constantemente procurando recursos educacionais adicionais para complementar seus estudos e aprofundar seu conhecimento sobre segurança cibernética. Ele está interessado em encontrar um site confiável que forneça informações atualizadas e relevantes sobre segurança da informação
+
+**Nome:** Pedro Almeida  
+**Profissional de TI - Procurando Testar Conhecimentos**  
+**Idade:** 32 anos  
+Pedro trabalha como administrador de sistemas em uma grande empresa de tecnologia. Ele está sempre buscando maneiras de aprimorar suas habilidades e conhecimentos em segurança cibernética. Pedro procura por quizzes interativos que possam testar seus conhecimentos e desafiar suas habilidades na identificação de ameaças cibernéticas e melhores práticas de segurança.
+
+**Nome:** Mariana Oliveira  
+**Usuária comum da Internet - Atenta a Sites Fraudulentos**  
+**Idade:** 45 anos
+Mariana é uma usuária comum da internet que realiza compras online e acessa vários sites regularmente. Ela está preocupada com a segurança de suas informações pessoais, especialmente ao lidar com sites desconhecidos ou suspeitos. Mariana procura uma maneira de relatar sites fraudulentos que encontre durante sua navegação online, ajudando assim a proteger outros usuários contra possíveis golpes e fraudes.
 
 ## Histórias de Usuários
 

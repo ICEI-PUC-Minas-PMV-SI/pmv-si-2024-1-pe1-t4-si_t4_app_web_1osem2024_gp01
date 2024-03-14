@@ -41,17 +41,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+| Usuário individual | Saber como proteger minhas informações enquanto navego na internet| Proteger meus dados contra possíveis ameaças online|
+| Profissional de TI | Ler as últimas notícias sobre cibersegurança | Para me manter atualizado sobre os tipos de ataques da área de cibersegurança e como me proteger |
+| Estudante de Segurança da Informação | Quero ter acesso a uma biblioteca abrangente de artigos, notícias e vídeos informativos e educacionais | Para expandir meus conhecimentos e aprimorar minhas habilidades profissionais na área de Cibersegurança |
+| Usuário individual | Avaliar a segurança das minhas senhas | Para que eu possa identificar e corrigir senhas fracas que possam ser facilmente comprometidas por hackers |
+| Usuário comum da internet que realiza compras online e acessa várias sites regularmente | Quero ter a opção de relatar sites suspeitos ou fraudulentos que encontre durante minha navegação online | Para que eu possa ajudar a proteger outros usuários contra possíveis golpes e fraudes |
+| Administrador de sistemas em uma empresa de tecnologia | Quero ter acesso a um quizz interativo | Para testar meus conhecimentos e desafiar minhas habilidades na identificação de ameaças cibernéticas |
+| Usuário comum da internet que realiza compras online e acessa várias sites regularmente | Quero ter acesso a uma lista que conste o histórico de sites fraudulentos relatados | Para me proteger de sites falsos e maliciosos |
 
 ## Requisitos
 

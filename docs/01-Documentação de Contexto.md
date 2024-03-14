@@ -1,46 +1,46 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+  A era digital trouxe consigo uma explosão de dados. Hoje, vivemos em um mundo onde a quantidade de dados produzidos é imensa. De acordo com um relatório da IBM, 90% dos dados do mundo foram criados nos últimos dois anos. Esses dados, que variam de informações pessoais a segredos comerciais, são um ativo extremamente valioso que precisa ser protegido.
+
+  No entanto, com o aumento da digitalização, também vimos um aumento correspondente nas ameaças à segurança da informação. As violações de dados estão se tornando cada vez mais comuns e sofisticadas. De acordo com um relatório da Verizon, houve mais de 2.000 violações de dados confirmadas em 2021, resultando na exposição de quase 4 bilhões de registros. Além disso, o custo médio de uma violação de dados agora é de 3,86 milhões de dólares, de acordo com um estudo da IBM.
+
+   Na era digital, onde a quantidade de dados cresce exponencialmente, é crucial reconhecer que, apesar de todo o avanço tecnológico, o elo mais fraco em termos de segurança da informação continua sendo o próprio usuário. Com o aumento das ameaças cibernéticas e a sofisticação dos ataques, os hackers muitas vezes exploram a falta de conscientização e conhecimento dos usuários para acessar dados sensíveis e comprometer sistemas. Seja por meio de phishing, engenharia social ou outras táticas, os cibercriminosos frequentemente miram na ingenuidade ou descuido dos indivíduos para obter acesso não autorizado. Portanto, é imperativo que os usuários estejam devidamente informados e capacitados para reconhecer e enfrentar essas ameaças, tornando-se parte ativa na proteção de seus próprios dados e contribuindo para a segurança geral da rede.
+   
+  Essas estatísticas destacam a importância da segurança da informação na era digital. Com o aumento das ameaças cibernéticas e a necessidade de proteger dados sensíveis, a demanda por soluções de segurança da informação está crescendo. De fato, o mercado global de segurança da informação está projetado para crescer significativamente nos próximos anos. Isso cria uma oportunidade para que seja fornecido um recurso educacional valioso sobre segurança da informação para o público em geral. Acredita-se que o site pode desempenhar um papel crucial em aumentar a conscientização e a educação sobre segurança da informação.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+  O problema enfrentado é a falta de educação e conscientização sobre segurança da informação. Apesar da crescente demanda por soluções de segurança da informação, muitos usuários da internet não estão totalmente cientes dos riscos associados à segurança da informação e das medidas que podem tomar para se protegerem. Isso cria uma lacuna significativa na educação e conscientização sobre o assunto.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+  O contexto em que essa aplicação será usada é amplo, pois se destina a qualquer usuário da internet que deseja aprender e se proteger contra ameaças de segurança da informação. Isso pode incluir indivíduos que usam a internet para fins pessoais, funcionários de empresas que lidam com dados sensíveis, estudantes que estão aprendendo sobre tecnologia da informação e segurança, entre outros.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+  A aplicação será um site de cunho informativo sobre segurança cibernética. O objetivo é educar os usuários sobre os riscos associados à segurança da informação e fornecer orientações sobre como se proteger contra esses riscos.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+  O objetivo geral é desenvolver um site informativo sobre segurança da informação que seja acessível, fácil de entender e relevante para uma ampla gama de usuários. O site fornecerá informações atualizadas sobre as melhores práticas de segurança da informação, notícias sobre ameaças cibernéticas recentes e recursos para aprender mais sobre o assunto.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+  Além disso, outro objetivo é manter os usuários atualizados sobre as últimas ameaças à segurança da informação e as medidas que podem ser tomadas para se proteger contra elas. Planejamos fazer isso fornecendo notícias atualizadas e relevantes sobre segurança da informação e ameaças cibernéticas.
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+  A educação é a primeira linha de defesa contra ameaças cibernéticas. Ao fornecer um recurso confiável e acessível sobre segurança da informação, podemos ajudar a capacitar os usuários da internet para se protegerem melhor. Além disso, com o crescimento do mercado de segurança da informação, acreditamos que nosso site tem um grande potencial para atrair um público significativo e gerar receita através de parcerias estratégicas e oportunidades de publicidade.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+  Em resumo, o projeto visa preencher uma lacuna crítica no mercado atual, fornecendo um recurso educacional valioso sobre segurança da informação para o público em geral. Acreditamos que este projeto tem um grande potencial para impactar positivamente a vida dos usuários da internet, ao mesmo tempo que oferece uma oportunidade de investimento atraente.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+  O público-alvo é bastante amplo, pois a segurança da informação é relevante para praticamente todos os usuários da internet. No entanto, podemos segmentar nosso público-alvo em algumas categorias principais:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+  Usuários individuais da internet: Esses são pessoas que usam a internet para atividades diárias, como navegação na web, compras online, redes sociais e e-mails. Eles podem não ter um conhecimento profundo de segurança da informação e, portanto, podem se beneficiar muito das informações e recursos fornecidos em nosso site.
+
+  Profissionais de TI e segurança da informação: Embora esses  indivíduos possam já ter um bom entendimento da segurança da informação, eles podem usar nosso site como uma fonte confiável de notícias e atualizações sobre o assunto.
+
+  Estudantes: Pessoas que estão estudando ou têm interesse em segurança da informação podem usar nosso site como um recurso de aprendizado.
+
+  Em suma, o site é destinado a qualquer pessoa que use a internet e tenha interesse em proteger suas informações e entender melhor a segurança da informação. Acreditamos que nosso site pode ser uma ferramenta valiosa para ajudar a aumentar a conscientização e a educação sobre este importante assunto.
+

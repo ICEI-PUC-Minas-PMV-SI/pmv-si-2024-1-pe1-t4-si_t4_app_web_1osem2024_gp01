@@ -17,6 +17,7 @@ O site será projetado para ser acessível, fornecendo informações claras e co
 * João Victor Alves de Sousa
 * Lauro Guarnieri Farneze
 * Lucas Felipe Carvalho Caldeira
+* Rafael Contarini Ferreira Barbosa
 * Raphael Henrique Cunha Faria
 * Victor Ribeiro Boechat
 

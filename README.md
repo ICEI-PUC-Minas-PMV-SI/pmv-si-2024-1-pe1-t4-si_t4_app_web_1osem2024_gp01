@@ -6,9 +6,9 @@
 
 `SEMESTRE`
 
-O projeto em questão é uma iniciativa de cibersegurança que visa desenvolver um site informativo. O objetivo principal deste site é educar os usuários da internet sobre a importância da segurança da informação e os riscos associados à falta dela.
+O projeto é uma iniciativa de cibersegurança que visa desenvolver um site informativo. O objetivo principal deste site é educar os usuários da internet sobre a importância da segurança da informação e os riscos associados à falta dela.
 
-O site será projetado para ser acessível, fornecendo informações claras e concisas que podem ser facilmente compreendidas por usuários comuns da internet. Ele abordará uma variedade de tópicos relacionados à segurança da informação, incluindo, mas não se limitando a, os riscos associados ao uso da internet e as medidas que os usuários podem tomar para se proteger contra esses riscos.
+O site será projetado para ser acessível, fornecendo informações claras e concisas que podem ser facilmente compreendidas por usuários comuns da internet, além de fornecer métodos para o usuário fixar seu conhecimento adquirido. Ele abordará uma variedade de tópicos relacionados à segurança da informação, incluindo, mas não se limitando a, os riscos associados ao uso da internet e as medidas que os usuários podem tomar para se proteger contra esses riscos.
 
 ## Integrantes
 

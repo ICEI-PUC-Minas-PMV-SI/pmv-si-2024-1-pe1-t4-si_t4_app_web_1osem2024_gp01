@@ -36,11 +36,11 @@
   O público-alvo é bastante amplo, pois a segurança da informação é relevante para praticamente todos os usuários da internet. No entanto, podemos segmentar nosso público-alvo em algumas categorias principais:
 
 
-  Usuários individuais da internet: Esses são pessoas que usam a internet para atividades diárias, como navegação na web, compras online, redes sociais e e-mails. Eles podem não ter um conhecimento profundo de segurança da informação e, portanto, podem se beneficiar muito das informações e recursos fornecidos em nosso site.
+  **Usuários individuais da internet**: Esses são pessoas que usam a internet para atividades diárias, como navegação na web, compras online, redes sociais e e-mails. Eles podem não ter um conhecimento profundo de segurança da informação e, portanto, podem se beneficiar muito das informações e recursos fornecidos em nosso site.
 
-  Profissionais de TI e segurança da informação: Embora esses  indivíduos possam já ter um bom entendimento da segurança da informação, eles podem usar nosso site como uma fonte confiável de notícias e atualizações sobre o assunto.
+  **Profissionais de TI e segurança da informação**: Embora esses  indivíduos possam já ter um bom entendimento da segurança da informação, eles podem usar nosso site como uma fonte confiável de notícias e atualizações sobre o assunto.
 
-  Estudantes: Pessoas que estão estudando ou têm interesse em segurança da informação podem usar nosso site como um recurso de aprendizado.
+  **Estudantes**: Pessoas que estão estudando ou têm interesse em segurança da informação podem usar nosso site como um recurso de aprendizado.
 
-  Em suma, o site é destinado a qualquer pessoa que use a internet e tenha interesse em proteger suas informações e entender melhor a segurança da informação. Acreditamos que nosso site pode ser uma ferramenta valiosa para ajudar a aumentar a conscientização e a educação sobre este importante assunto.
+  Em suma, o site é destinado a **qualquer pessoa que use a internet** e tenha interesse em proteger suas informações e entender melhor a segurança da informação. Acreditamos que nosso site pode ser uma ferramenta valiosa para ajudar a aumentar a conscientização e a educação sobre este importante assunto.
 

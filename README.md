@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# InfoShield
 
 `CURSO`
 
@@ -6,14 +6,18 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto em questão é uma iniciativa de cibersegurança que visa desenvolver um site informativo. O objetivo principal deste site é educar os usuários da internet sobre a importância da segurança da informação e os riscos associados à falta dela.
+
+O site será projetado para ser acessível, fornecendo informações claras e concisas que podem ser facilmente compreendidas por usuários comuns da internet. Ele abordará uma variedade de tópicos relacionados à segurança da informação, incluindo, mas não se limitando a, os riscos associados ao uso da internet e as medidas que os usuários podem tomar para se proteger contra esses riscos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alexandre de Oliveira Corradi Barbosa
+* Guilherme Botelho Da Silva
+* Lauro Guarnieri Farneze
+* Lucas Felipe Carvalho Caldeira
+* Raphael Henrique Cunha Faria
+* Victor Ribeiro Boechat
 
 ## Orientador
 

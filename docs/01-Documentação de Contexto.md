@@ -52,3 +52,8 @@ Objetivos Específicos
   
   Em suma, o site é destinado a **qualquer pessoa que use a internet** e tenha interesse em proteger suas informações e entender melhor sobre a segurança da informação. Acredita-se que a aplicação será uma ferramenta valiosa para auxiliar na conscientização sobre este assunto importante.
 
+### Mapas de persona
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/c9caaf42-62b1-41c0-9eb7-0f74ff63e05a)https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/c9caaf42-62b1-41c0-9eb7-0f74ff63e05a" width="600" />
+
+
+

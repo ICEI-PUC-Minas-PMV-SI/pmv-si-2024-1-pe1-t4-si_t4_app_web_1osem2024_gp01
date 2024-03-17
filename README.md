@@ -23,7 +23,7 @@ O site será projetado para ser acessível, fornecendo informações claras e co
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nesley
 
 ## Instruções de utilização
 

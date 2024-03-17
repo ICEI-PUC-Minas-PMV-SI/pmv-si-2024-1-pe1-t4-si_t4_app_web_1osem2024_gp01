@@ -55,5 +55,16 @@ Objetivos Específicos
 ### Mapas de persona
 <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/c9caaf42-62b1-41c0-9eb7-0f74ff63e05a)https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/c9caaf42-62b1-41c0-9eb7-0f74ff63e05a" width="600" />
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/586fa20b-3694-4b46-96d4-15741f092edc" width="600" />
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/80649b49-41b5-4880-837b-3bc1daafac24" width="600" />
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/56a62678-7404-4513-8466-279e3fda440f" width="600" />
+
+### Stakeholder
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t4-si_t4_app_web_1osem2024_gp01/assets/93887953/bb4d2fe4-b340-4d25-aeb2-e1bf8d46f7c9" width="600" />
+
+
 
 

@@ -1,0 +1,34 @@
+header {
+    font: normal 16px Arial, verdana, serif;
+    text-align: left;
+}
+button {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, helvetica, sans-serif;
+}
+table {
+    width: 400px;
+    border-collapse: collapse;
+    text-align: center;
+}
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+tr {
+    background-color: darkgray;
+}

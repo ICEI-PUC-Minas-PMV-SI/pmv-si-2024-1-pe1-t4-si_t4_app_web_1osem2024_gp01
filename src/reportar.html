@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>InfoShield Alertas</title>
     <link rel="stylesheet" href="styles/global-styles.css">
-    <link rel="stylesheet" href="styles/alerta.css">
+    <link rel="stylesheet" href="styles/reportar.css">
 </head>
 <body>
     <header>
@@ -95,29 +95,34 @@
         alt="Imagem inicial"
       />
     </section>
+    <div class="report">
+        <fieldset class="form-grid">
+          <legend class="reporte"><strong>Reporte</strong></legend>
 
+          <div class="form-group">
+            <label for="url">Url do site</label>
+            <input type="text" name="insiraurl" id="url "placeholder="Insira o url" >                 
+          </div>
 
-    <div class="alerta">
-      <div class="grupo-alerta">        
-          <div class ="card-alerta">
-              <h2>Site 1</h2>
-              <p>Descrição do Site 1...</p>
+          <div class="form-group">
+            <label for="data">Data</label>
+            <input type="data" name="data" id="data" placeholder="Data">
           </div>
-          <div class ="card-alerta">
-              <h2>Site 2</h2>
-              <p>Descrição do Site 2...</p>
-          </div>
-          <div class ="card-alerta">
-              <h2>Site 3</h2>
-              <p>Descrição do Site 3...</p>
-          </div>
-      </div>
-  </div>
- 
-    <button class="reportar-alerta">
-      <a href="reportar.html">Reportar um site</a>
-    </button>
 
+          <div class="form-group">
+            <label for="name">Nome</label>
+            <input type="text" name="nome" id="nome "placeholder="Insira o nome conhecido pelo site">
+          </div>
+
+          
+
+          <div class="form-group full-width">
+            <label for="message">Descreva</label>
+            <textarea name="message" id="message" cols="30" rows="10"></textarea >
+          </div>
+
+        </fieldset>             
+    </div>
 
     <footer class="footer">
       <span>Footer</span>

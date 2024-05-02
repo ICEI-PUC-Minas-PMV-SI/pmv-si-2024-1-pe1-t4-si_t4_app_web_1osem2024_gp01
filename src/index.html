@@ -1,272 +1,139 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Info News</title>
-    <link rel="stylesheet" href="styles/global-styles.css" />
-    <link rel="stylesheet" href="styles/info-news.css" />
-  </head>
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/src/bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="/src/styles/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <title>InfoNews</title>
+</head>
+<body>
     <header>
-      <div class="logo">
-        <h1><a href="index.html">InfoShieldLogo</a></h1>
-      </div>
-      <div class="menu">
-        <ul>
-          <li class="menu-item">
-            <a href="password.html">Senhas</a>
-          </li>
-          <li class="menu-item">
-            <a href="start-quiz.html">Quiz</a>
-          </li>
-          <li class="menu-item">
-            <a href="learn.html">Aprenda</a>
-          </li>
-          <li class="menu-item">
-            <a href="alerta.html">Alerta</a>
-          </li>
-        </ul>
-        <svg
-          class="menu-icon"
-          width="40px"
-          height="40px"
-          viewBox="0 0 24 24"
-          version="1.1"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-        >
-          <title>Menu</title>
-          <g
-            id="Page-1"
-            stroke="none"
-            stroke-width="1"
-            fill="none"
-            fill-rule="evenodd"
-          >
-            <g id="Menu">
-              <rect
-                id="Rectangle"
-                fill-rule="nonzero"
-                x="0"
-                y="0"
-                width="24"
-                height="24"
-              ></rect>
-              <line
-                x1="5"
-                y1="7"
-                x2="19"
-                y2="7"
-                id="Path"
-                stroke="#0C0310"
-                stroke-width="2"
-                stroke-linecap="round"
-              ></line>
-              <line
-                x1="5"
-                y1="17"
-                x2="19"
-                y2="17"
-                id="Path"
-                stroke="#0C0310"
-                stroke-width="2"
-                stroke-linecap="round"
-              ></line>
-              <line
-                x1="5"
-                y1="12"
-                x2="19"
-                y2="12"
-                id="Path"
-                stroke="#0C0310"
-                stroke-width="2"
-                stroke-linecap="round"
-              ></line>
-            </g>
-          </g>
-        </svg>
-      </div>
-    </header>
-    <section class="banner-principal">
-      <img
-        class="img-fluid banner-image"
-        src="imagens/header.jpeg"
-        alt="Imagem inicial"
-      />
-    </section>
-    <main>
-      <section>
-        <div class="card-group">
-          <div class="card">
-            <img
-              src="imagens/articles/article-one.jpg"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h2 class="card-title">
-                Decreto que institui a Política Nacional de Cibersegurança é
-                publicado
-              </h2>
-              <p class="card-text">
-                O presidente da República editou o Decreto nº 11.856, em 26 de
-                dezembro de 2023, para instituir a Política Nacional de
-                Cibersegurança, que tem como finalidade orientar a atividade de
-                segurança cibernética no país.
-              </p>
-              <a
-                href="https://www.mattosfilho.com.br/unico/decreto-politica-nacional-ciberseguranca/"
-                class="btn"
-                >Leia Mais...</a
-              >
-            </div>
-          </div>
-          <div class="card">
-            <img
-              src="imagens/articles/article-two.jpeg"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h2 class="card-title">
-                Lançamento do Relatório de Revisão do Cybersecurity Capacity
-                Maturity Model for Nations (CMM) Brasil
-              </h2>
-              <p class="card-text">
-                Gabinete de Segurança Institucional, em parceria com a Embaixada
-                do Reino Unido, Organização dos Estados Americanos e o Global
-                Cyber Security Capacity Centre (GCSCC), realizou o lançamento do
-                Relatório de Revisão do Cybersecurity Capacity Maturity Model
-                for Nations (CMM) Brasil, elaborado pela Universidade de Oxford,
-                em evento online nesta sexta-feira, 9 de fevereiro.
-              </p>
-              <a
-                href="https://www.gov.br/gsi/pt-br/centrais-de-conteudo/noticias/2024/lancamento-do-relatorio-de-revisao-do-cybersecurity-capacity-maturity-model-for-nations-cmm-brasil"
-                class="btn btn-primary"
-                >Leia Mais...</a
-              >
-            </div>
-          </div>
-          <div class="card">
-            <img
-              src="imagens/articles/article-three.webp"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h2 class="card-title">
-                Segurança da informação tem salário de R$ 38 mil, mas não
-                encontra profissionais; veja como entrar
-              </h2>
-              <p class="card-text">
-                Nunca a segurança da informação foi tão valorizada como de 2020
-                para cá. Isso porque só depois da pandemia que muitas empresas
-                entenderam o quanto esse pilar é essencial para elas (entenda os
-                motivos abaixo).
-              </p>
-              <a
-                href="https://g1.globo.com/tecnologia/noticia/2023/08/17/seguranca-da-informacao-tem-salario-de-r-38-mil-mas-nao-encontra-profissionais-veja-como-entrar.ghtml"
-                class="btn btn-primary"
-                >Leia Mais...</a
-              >
-            </div>
-          </div>
-        </div>
-      </section>
-      <section>
-        <div class="card-group">
-          <div class="card">
-            <img
-              src="imagens/articles/article-four.jpg"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h2 class="card-title">
-                Anatel faz consulta sobre entidades de avaliação de
-                cibersegurança em produtos
-              </h2>
-              <p class="card-text">
-                Anatel divulgou uma proposta para estabelecer um procedimento
-                operacional que permitirá a habilitação de entidades
-                especializadas em avaliação de segurança cibernética de produtos
-                de telecomunicações. Isso inclui testes avançados, como invasão,
-                simulação de novos ataques, análise de código fonte, estrutura
-                de arquivos, monitoramento de conexões de dados e avaliação de
-                funcionalidades. O objetivo é garantir que essas entidades
-                tenham alto grau de especialização para supervisionar
-                adequadamente o mercado de telecomunicações.
-              </p>
-              <a
-                href="https://www.minhaoperadora.com.br/2024/02/anatel-faz-consulta-sobre-entidades-de-avaliacao-de-ciberseguranca-em-produtos.html"
-                class="btn btn-primary"
-                >Leia Mais...</a
-              >
-            </div>
-          </div>
-          <div class="card">
-            <img
-              src="imagens/articles/article-five.jpg"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h2 class="card-title">
-                Cyber Security: saiba o que faz um profissional de
-                cibersegurança
-              </h2>
-              <p class="card-text">
-                O termo cibersegurança tem se tornado cada vez mais comum nos
-                dias de hoje. Mas você sabe o que faz um profissional na área?
-                <br />
+        <nav  class="navbar navbar-expand-md p-3 mb-0 bg-info text-muted ">
+            
+            <a href="#"  class="navbar-brand bebas-neue-regular">InfoShield.com</a>
+            <button  class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#teste"><span class="navbar-toggler-icon"></span></button>
+           
+               <div class="collapse navbar-collapse" id="teste">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-iten"> 
+                            <a href="#"class="nav-link  active">InfoNews</a>
+                        </li>
+                        <li class="nav-iten"> 
+                            <a href="../src/Password.html" class="nav-link" >Senhas</a>
+                        </li>
+                        <li class="nav-iten"> 
+                            <a href="../src/Quiz.html"class="nav-link" >Quiz</a>
+                        </li>
+                        <li class="nav-iten"> 
+                            <a href="../src/learn.html" class="nav-link" >Aprenda</a>
+                        </li>
+                        <li class="nav-iten" > 
+                            <a href="../src/alerta.html" class="nav-link">Alerta</a>
+                    </ul>
 
-                Marcelo Nagy, 46 anos, é diretor de uma empresa focada em gestão
-                de tecnologia, segurança da informação e investigação
-                cibernética, em São Paulo (SP) e um exemplo claro de
-                profissional de cibersegurança.
-              </p>
-              <a
-                href="https://olhardigital.com.br/2022/09/29/seguranca/cyber-security-saiba-o-que-faz-um-profissional-de-ciberseguranca/"
-                class="btn btn-primary"
-                >Leia Mais...</a
-              >
+                    <form class="form-inline d-flex">
+                      <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
+                      <button class="btn btn-outline-secondary" type="submit">
+                        ok
+                      </button>
+                   </form>
+               </div>
+               
+               
+    </header>
+    <div id="img">
+        <img id="img" src="/src/imagens/header.jpeg" alt="Imagem inicial">
+      </div>
+    <section>
+        <div class="card-group">
+            <div class="card">
+              <img src="/src/imagens/articles/article-one.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Decreto que institui a Política Nacional de Cibersegurança é publicado</h5>
+                <p class="card-text">O presidente da República editou o Decreto nº 11.856, em 26 de dezembro de 2023, 
+                    para instituir a Política Nacional de Cibersegurança, 
+                    que tem como finalidade orientar a atividade de segurança cibernética no país.</p>
+                <a href="https://www.mattosfilho.com.br/unico/decreto-politica-nacional-ciberseguranca/" class="btn btn-info">Leia Mais...</a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="/src/imagens/articles/article-two.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Lançamento do Relatório de Revisão do Cybersecurity Capacity 
+                    Maturity Model for Nations (CMM) Brasil</h5>
+                <p class="card-text">Gabinete de Segurança Institucional, em parceria com a Embaixada do Reino Unido, 
+                    Organização dos Estados Americanos e o Global Cyber Security Capacity Centre (GCSCC), realizou o 
+                    lançamento do Relatório de Revisão do Cybersecurity Capacity Maturity Model for Nations (CMM) Brasil,
+                     elaborado pela Universidade de Oxford, em evento online nesta sexta-feira, 9 de fevereiro.</p>
+                <a href="https://www.gov.br/gsi/pt-br/centrais-de-conteudo/noticias/2024/lancamento-do-relatorio-de-revisao-do-cybersecurity-capacity-maturity-model-for-nations-cmm-brasil" class="btn btn-info">Leia Mais...</a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="/src/imagens/articles/article-three.webp" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Segurança da informação tem salário de R$ 38 mil, mas não encontra 
+                    profissionais; veja como entrar</h5>
+                <p class="card-text">Nunca a segurança da informação foi tão valorizada como 
+                    de 2020 para cá. Isso porque só depois da pandemia que muitas empresas entenderam 
+                    o quanto esse pilar é essencial para elas (entenda os motivos abaixo).</p>
+                <a href="https://g1.globo.com/tecnologia/noticia/2023/08/17/seguranca-da-informacao-tem-salario-de-r-38-mil-mas-nao-encontra-profissionais-veja-como-entrar.ghtml" class="btn btn-info">Leia Mais...</a>
+              </div>
             </div>
           </div>
-          <div class="card">
-            <img
-              src="imagens/articles/article-six.jpg"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h2 class="card-title">
-                Cibersegurança: o que é, importância e como se qualificar
-              </h2>
-              <p class="card-text">
-                Cibersegurança é a prática proteger ativos de informação tais
-                sistemas, computadores e servidores entre outros contra ameaças
-                cibernéticas ou ataques maliciosos. A segurança cibernética deve
-                ser trabalhada em vários níveis desde a segurança das redes
-                físicas e dos aplicativos até a educação do usuário final
-                Segundo levantamento da empresa de segurança cibernética
-                Fortinet, em 2020 o Brasil sofreu mais de 8,4 bilhões de
-                tentativas e ameaças de ataques cibernéticos. O número
-                impressiona e representa mais de 20% dos casos registrados em
-                toda a América Latina, que somaram 41 bilhões.
-              </p>
-              <a
-                href="https://www.portaldaindustria.com.br/industria-de-a-z/ciberseguranca/"
-                class="btn btn-primary"
-                >Leia Mais...</a
-              >
+    </section>
+    <section>
+        <div class="card-group">
+            <div class="card">
+              <img src="/src/imagens/articles/article-four.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">A Anatel faz consulta sobre entidades de avaliação de cibersegurança em produtos</h5>
+                <p class="card-text">Anatel divulgou uma proposta para estabelecer um procedimento 
+                    operacional que permitirá a habilitação de entidades especializadas em avaliação de segurança
+                     cibernética de produtos de telecomunicações. Isso inclui testes avançados, como invasão, 
+                     simulação de novos ataques, análise de código fonte, estrutura de arquivos, monitoramento 
+                     de conexões de dados e avaliação de funcionalidades. O objetivo é garantir que essas entidades 
+                     tenham alto grau de especialização para supervisionar adequadamente o mercado de telecomunicações.</p>
+                <a href="https://www.minhaoperadora.com.br/2024/02/anatel-faz-consulta-sobre-entidades-de-avaliacao-de-ciberseguranca-em-produtos.html" class="btn btn-info">Leia Mais...</a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="/src/imagens/articles/article-five.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Cyber Security: saiba o que faz um profissional de cibersegurança</h5>
+                <p class="card-text">O termo cibersegurança tem se 
+                    tornado cada vez mais comum nos dias de hoje. Mas você sabe o que faz um profissional na área? <br>
+
+                    Marcelo Nagy, 46 anos, é diretor de uma empresa focada em gestão de tecnologia, segurança da informação e investigação cibernética, em São Paulo (SP) e um exemplo claro de profissional de cibersegurança.</p>
+                <a href="https://olhardigital.com.br/2022/09/29/seguranca/cyber-security-saiba-o-que-faz-um-profissional-de-ciberseguranca/" class="btn btn-info">Leia Mais...</a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="/src/imagens/articles/article-six.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Cibersegurança: o que é, importância e como se qualificar</h5>
+                <p class="card-text">Cibersegurança é a prática proteger ativos de informação tais sistemas, computadores e servidores entre outros contra ameaças cibernéticas ou ataques maliciosos.
+
+                    A segurança cibernética deve ser trabalhada em vários níveis desde a segurança das redes físicas e dos aplicativos até a educação do usuário final
+                    
+                    Segundo levantamento da empresa de segurança cibernética Fortinet, em 2020 o Brasil sofreu mais de 
+                    8,4 bilhões de tentativas e ameaças de ataques cibernéticos. O número impressiona e representa mais de 
+                    20% dos casos registrados em toda a América Latina, que somaram 41 bilhões.</p>
+                <a href="https://www.portaldaindustria.com.br/industria-de-a-z/ciberseguranca/" class="btn btn-info">Leia Mais...</a>
+              </div>
             </div>
           </div>
-        </div>
-      </section>
-    </main>
-    <footer class="footer">
-      <span>Footer</span>
-    </footer>
-  </body>
-</html>
+    </section>
+</main>
+<footer class="bg-info text-center">
+  <div id="barrmt"></div>
+    <p>copiright © 2024 | InfoShild</p>
+  <div id="barr"></div>
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>

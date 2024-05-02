@@ -41,3 +41,29 @@
 
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  header .logo {
+    flex-basis: 50%;
+  }
+  
+  header .logo h1 {
+    font-weight: lighter;
+  }
+  
+  .menu-icon {
+    align-self: center;
+  }
+
+  .footer {
+    background: lightgray;
+    width: 100%;
+    height: 75px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+  }

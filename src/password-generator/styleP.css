@@ -3,128 +3,128 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-body {
+  }
+  
+  .password-generator-screen {
     font-family: Arial, sans-serif; /* Fonte padrão */
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
-}
-
-header {
+  }
+  
+  .password-generator-screen header {
     background-color: white; /* Cor de fundo da navbar */
     color: #fff;
     display: flex;
     flex-direction: column;
     padding: 10px 20px; /* Espaçamento interno para não ficar espremido */
-}
-
-.logo {
+  }
+  
+  .password-generator-screen .logo {
     color: black;
     margin-top: 5px;
-}
-
-.search-bar {
+  }
+  
+  .password-generator-screen .search-bar {
     width: 100%;
     padding: 5px;
-}
-
-header .headerlogomenu {
+  }
+  
+  .password-generator-screen header .headerlogomenu {
     display: flex;
     flex-direction: row;
-}
-
-header .headerlogomenu .logo {
+  }
+  
+  .password-generator-screen header .headerlogomenu .logo {
     flex-basis: 50%;
-}
-
-header .logo h1 {
+  }
+  
+  .password-generator-screen header .logo h1 {
     font-weight: lighter;
-}
-
-.menu {
+  }
+  
+  .password-generator-screen .menu {
     flex-basis: 100%;
     display: flex;
     justify-content: flex-end;
-}
-
-.menu ul {
+  }
+  
+  .password-generator-screen .menu ul {
     display: flex;
     list-style: none;
     margin-top: 0px;
     margin-bottom: 0px;
     flex-direction: row;
-}
-
-.menu ul li {
+  }
+  
+  .password-generator-screen .menu ul li {
     margin-left: 20px;
     margin-right: 20px;
     height: 40px;
     align-self: center;
-}
-
-.menu ul li a {
+  }
+  
+  .password-generator-screen .menu ul li a {
     color: black;
     text-decoration: none;
     font-weight: bold;
     padding: 5px 10px;
     transition: background-color 0.3s;
-}
-
-.menu ul li a:hover {
+  }
+  
+  .password-generator-screen .menu ul li a:hover {
     background-color: #555; /* Efeito de hover para os itens do menu */
-}
-
-.menu-item {
+  }
+  
+  .password-generator-screen .menu-item {
     align-content: center;
-}
-
-.menu-icon {
+  }
+  
+  .password-generator-screen .menu-icon {
     align-self: center;
     fill: black;
     margin-left: 20px; /* Espaçamento para o ícone do menu */
-}
-
-.banner-principal .banner-image {
+  }
+  
+  .password-generator-screen .banner-principal .banner-image {
     width: 100%;
     max-height: 450px;
-}
-
-.password-description {
+  }
+  
+  .password-generator-screen .password-description {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     margin-top: 30px;
     padding-left: 100px;
     padding-right: 100px;
-}
-
-.password-description h2{
+  }
+  
+  .password-generator-screen .password-description h2{
     justify-content: center;
     text-align: center;
-}
-
-.password-description p {
+  }
+  
+  .password-generator-screen .password-description p {
     text-align: justify;
     margin-top: 30px;
     margin-bottom: 30px;
-}
-
-.button {
+  }
+  
+  .password-generator-screen .button {
     display: flex;
     justify-content: center;
     margin-top: 60px;
-}
-
-.password-groups {
+  }
+  
+  .password-generator-screen .password-groups {
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 100px;
-}
-
-.grouptitle {
+  }
+  
+  .password-generator-screen .grouptitle {
     background-color: lightgrey;
     justify-content: space-between;
     text-align: center;
@@ -135,47 +135,47 @@ header .logo h1 {
     border-radius: 5px;
     font-weight: bold;
     font-size: 20px;
-}
-
-.save-group {
+  }
+  
+  .password-generator-screen .save-group {
     display: flex;
     flex-basis: 33%;
     align-items: center;
     flex-direction: column;
-}
-
-.passwords {
+  }
+  
+  .password-generator-screen .passwords {
     display: flex;
     flex-direction: column;
     font-size: 18px;
-}
-
-.passwords span {
+  }
+  
+  .password-generator-screen .passwords span {
     margin-bottom: 15px;
-}
-
-.groupDefinition {
+  }
+  
+  .password-generator-screen .groupDefinition {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     width: 300px;
-}
-
-.passwordName{
+  }
+  
+  .password-generator-screen .passwordName{
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     width: 300px;
-}
-
-.generatePassword {
+  }
+  
+  .password-generator-screen .generatePassword {
     display: flex;
     flex-direction: column;
     width: 100%;
     align-items: center;
-}
-
-.generatePassword button {
+  }
+  
+  .password-generator-screen .generatePassword button {
     background-color: darkslateblue;
     border: none;
     color: white;
@@ -187,9 +187,9 @@ header .logo h1 {
     border-radius: 10px;
     cursor: pointer;
     width: 300px;
-}
-
-.generatePassword .clearGroupsAndPassword{
+  }
+  
+  .password-generator-screen .generatePassword .clearGroupsAndPassword{
     background-color: brown;
     border: none;
     color: white;
@@ -202,13 +202,13 @@ header .logo h1 {
     cursor: pointer;
     width: 300px;
     margin-top: 10px;
-}
-
-.active {
+  }
+  
+  .password-generator-screen .active {
     border-bottom: 3px solid darkslateblue;
-}
-
-.footer {
+  }
+  
+  .password-generator-screen .footer {
     background: lightgray;
     width: 100%;
     height: 75px;
@@ -216,4 +216,5 @@ header .logo h1 {
     display: flex;
     align-items: center;
     margin-top: 60px;
-}
+  }
+  

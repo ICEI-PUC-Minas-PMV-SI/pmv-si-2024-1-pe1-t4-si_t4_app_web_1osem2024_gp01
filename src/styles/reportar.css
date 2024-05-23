@@ -1,0 +1,69 @@
+
+.report {
+    width: 60%;
+    margin: auto;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.full-width {
+    grid-column: span 2;
+}
+
+#data {
+    width: 100px;
+}
+#message{
+    width: 70%;
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  header .logo {
+    flex-basis: 50%;
+  }
+  
+  header .logo h1 {
+    font-weight: lighter;
+  }
+  
+  .menu-icon {
+    align-self: center;
+  }
+
+  .footer {
+    background: lightgray;
+    width: 100%;
+    height: 75px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+  }

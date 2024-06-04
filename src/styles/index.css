@@ -49,10 +49,23 @@ body{
 
 .card-body{
     border: 1px solid grey;
+    position: relative;
+}
+
+.card-text{
+    text-align: justify;
+    padding-bottom: 30px;
 }
 
 .card-img-top{
     border: 1px solid grey;
+    height: 220px;
+}
+
+.btn-read-more{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
 }
 
 #barrmt{

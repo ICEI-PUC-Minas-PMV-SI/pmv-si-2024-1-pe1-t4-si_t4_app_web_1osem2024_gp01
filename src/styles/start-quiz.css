@@ -1,4 +1,4 @@
-.container {
+.start-quiz-page .container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,12 +7,12 @@
   gap: 2rem;
 }
 
-.quiz-summary {
+.start-quiz-page .quiz-summary {
   font-size: 1.15rem;
   line-height: 1.15;
 }
 
-.start-quiz {
+.start-quiz-page .start-quiz {
   background-color: darkslateblue;
   border: none;
   color: white;
@@ -25,22 +25,22 @@
   cursor: pointer;
 }
 
-table {
+.start-quiz-page table {
   width: 100%;
   border-collapse: collapse;
 }
 
-th,
-td {
+.start-quiz-page th,
+.start-quiz-page td {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 0.5rem;
 }
 
-th {
+.start-quiz-page th {
   background-color: #f2f2f2;
 }
 
-tr:nth-child(even) {
+.start-quiz-page tr:nth-child(even) {
   background-color: #f9f9f9;
 }

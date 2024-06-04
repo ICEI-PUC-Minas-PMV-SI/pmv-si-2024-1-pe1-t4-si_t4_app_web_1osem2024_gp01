@@ -32,3 +32,20 @@
   font-weight: bold;
   margin-right: 0.2em;
 }
+
+.quiz-page .modal-body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.correct-answer {
+  color: green;
+  font-weight: bold;
+}
+.wrong-answer {
+  color: red;
+}
+.quiz-page .modal-content {
+  font-family: 'Roboto', sans-serif;
+}

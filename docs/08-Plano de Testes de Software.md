@@ -450,7 +450,7 @@ Melhorar a interface de usuário para tornar a pesquisa de alertas de golpes e o
 Implementar recursos adicionais, como sugestões de senhas fortes e dicas de segurança, para ajudar os usuários a protegerem suas informações online.
 
 
-#Conclusão
+# Conclusão
 O processo de testes de software realizado no projeto do site foi fundamental para garantir a qualidade, segurança e usabilidade da plataforma. Durante os testes, foram avaliadas diversas funcionalidades, desde a navegação pelas notícias até o uso do gerador e armazenamento de senhas. Abaixo estão os principais pontos destacados durante o processo de testes:
 Funcionalidades Testadas: Todas as principais funcionalidades do site foram testadas, incluindo navegação, pesquisa, geração de senhas e visualização de conteúdo informativo. Os testes abrangem uma variedade de cenários para garantir que o site operasse conforme esperado em diferentes situações.
 Identificação de Defeitos: Durante os testes, foram identificados vários defeitos, incluindo problemas de desempenho, questões de segurança e usabilidade. Esses defeitos foram documentados detalhadamente para que pudessem ser corrigidos pela equipe de desenvolvimento.

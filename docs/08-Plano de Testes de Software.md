@@ -1,61 +1,61 @@
-Sumário
-1. Introdução
-1.1. Objetivo
-1.2. Escopo dos Testes
-1.3. Definições e Abreviações
-1.4. Referências
-2. Planejamento de Testes
-2.1. Objetivos dos Testes
-2.2. Critérios de Sucesso
-2.3. Recursos Necessários
-2.4. Cronograma de Testes
-2.5. Ambiente de Teste
-2.6. Riscos e Mitigações
-3. Teste de Funcionalidade
-3.1. Casos de Teste para a Aba de Notícias
-3.1.1. Adicionar Nova Notícia
-3.1.2. Editar Notícia Existente
-3.1.3. Remover Notícia
-3.1.4. Exibir Notícias por Categoria
-3.2. Casos de Teste para a Aba de Alertas de Golpes
-3.2.1. Adicionar Novo Alerta
-3.2.2. Editar Alerta Existente
-3.2.3. Remover Alerta
-3.2.4. Exibir Alertas por Categoria
-3.3. Casos de Teste para o Gerador e Armazenamento de Senhas
-3.3.1. Gerar Senha Aleatória
-3.3.2. Armazenar Senha
-3.3.3. Exibir Senhas Armazenadas
-3.3.4. Editar Senha Armazenada
-3.3.5. Remover Senha
-3.4. Casos de Teste para a Aba de Conteúdo Informativo
-3.4.1. Adicionar Novo Conteúdo
-3.4.2. Editar Conteúdo Existente
-3.4.3. Remover Conteúdo
-3.4.4. Exibir Conteúdo por Categoria
-4. Teste de Usabilidade
-4.1. Navegação entre Abas
-4.2. Consistência da Interface
-4.3. Experiência do Usuário
-5. Teste de Compatibilidade
-5.1. Compatibilidade entre Navegadores
-5.2. Compatibilidade entre Dispositivos
-5.3. Compatibilidade entre Sistemas Operacionais
-6. Relatório de Testes
-6.1. Resultados dos Testes
-6.2. Defeitos Encontrados
-6.3. Correções Realizadas
-6.4. Regressão e Reteste
-7. Experiência do Usuário nos Testes
-7.1. Seleção dos Usuários
-7.2. Metodologia de Teste com Usuários
-7.3. Feedback dos Usuários
-7.4. Análise das Experiências dos Usuários
-7.5. Ajustes Realizados com Base no Feedback
-8. Conclusão
-8.1. Sumário dos Resultados
-8.2. Recomendações
-8.3. Próximos Passos
+# Sumário
+# 1. Introdução
+## 1.1. Objetivo
+## 1.2. Escopo dos Testes
+## 1.3. Definições e Abreviações
+## 1.4. Referências
+# 2. Planejamento de Testes
+## 2.1. Objetivos dos Testes
+## 2.2. Critérios de Sucesso
+## 2.3. Recursos Necessários
+## 2.4. Cronograma de Testes
+## 2.5. Ambiente de Teste
+## 2.6. Riscos e Mitigações
+# 3. Teste de Funcionalidade
+## 3.1. Casos de Teste para a Aba de Notícias
+## 3.1.1. Adicionar Nova Notícia
+## 3.1.2. Editar Notícia Existente
+## 3.1.3. Remover Notícia
+## 3.1.4. Exibir Notícias por Categoria
+## 3.2. Casos de Teste para a Aba de Alertas de Golpes
+## 3.2.1. Adicionar Novo Alerta
+## 3.2.2. Editar Alerta Existente
+## 3.2.3. Remover Alerta
+## 3.2.4. Exibir Alertas por Categoria
+## 3.3. Casos de Teste para o Gerador e Armazenamento de Senhas
+## 3.3.1. Gerar Senha Aleatória
+## 3.3.2. Armazenar Senha
+## 3.3.3. Exibir Senhas Armazenadas
+## 3.3.4. Editar Senha Armazenada
+## 3.3.5. Remover Senha
+## 3.4. Casos de Teste para a Aba de Conteúdo Informativo
+## 3.4.1. Adicionar Novo Conteúdo
+## 3.4.2. Editar Conteúdo Existente
+## 3.4.3. Remover Conteúdo
+## 3.4.4. Exibir Conteúdo por Categoria
+# 4. Teste de Usabilidade
+## 4.1. Navegação entre Abas
+## 4.2. Consistência da Interface
+## 4.3. Experiência do Usuário
+# 5. Teste de Compatibilidade
+## 5.1. Compatibilidade entre Navegadores
+## 5.2. Compatibilidade entre Dispositivos
+## 5.3. Compatibilidade entre Sistemas Operacionais
+# 6. Relatório de Testes
+## 6.1. Resultados dos Testes
+## 6.2. Defeitos Encontrados
+## 6.3. Correções Realizadas
+## 6.4. Regressão e Reteste
+# 7. Experiência do Usuário nos Testes
+## 7.1. Seleção dos Usuários
+## 7.2. Metodologia de Teste com Usuários
+## 7.3. Feedback dos Usuários
+## 7.4. Análise das Experiências dos Usuários
+## 7.5. Ajustes Realizados com Base no Feedback
+# 8. Conclusão
+## 8.1. Sumário dos Resultados
+## 8.2. Recomendações
+## 8.3. Próximos Passos
 
 # 1. Introdução
 

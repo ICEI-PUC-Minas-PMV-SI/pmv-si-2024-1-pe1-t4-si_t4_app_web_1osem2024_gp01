@@ -42,5 +42,5 @@ document.getElementById('cadastroForm').addEventListener('submit', async functio
 
   alert('Registro realizado com sucesso!');
   document.getElementById('cadastroForm').reset();
-  window.location.href = 'sign-in.html';
+  window.location.href = 'login.html';
 });7

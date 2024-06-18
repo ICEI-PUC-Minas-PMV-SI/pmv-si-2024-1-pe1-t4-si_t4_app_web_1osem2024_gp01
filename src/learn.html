@@ -52,31 +52,20 @@
       </section>
       <div class="container">
         <div class="sidebar">
-          <h2>Tema 1</h2>
+          <h2>Malware</h2>
           <ul>
-            <a href="#"><li>Subtópico 1</li></a>
-            <a href="#"><li>Subtópico 2</li></a>
-            <a href="#"><li>Subtópico 3</li></a>
-            <a href="#"><li>Subtopico 4</li></a>
-            <a href="#"><li>Subtopico 5</li></a>
-            <a href="#"><li>Subtopico 6</li></a>
-            <a href="#"><li>Subtopico 7</li></a>
-            <a href="#"><li>Subtopico 8</li></a>
-            <a href="#"><li>Subtopico 9</li></a>
-          </ul>
-
-          <h2>Tema 2</h2>
-          <ul class="subtopics">
-            <a href="#"><li>Subtópico 1</li></a>
-            <a href="#"><li>Subtópico 2</li></a>
-            <a href="#"><li>Subtópico 3</li></a>
-          </ul>
-
-          <h2>Tema 3</h2>
-          <ul class="subtopics">
-            <a href="#"><li>Subtópico 1</li></a>
-            <a href="#"><li>Subtópico 2</li></a>
-            <a href="#"><li>Subtópico 3</li></a>
+            <li><a href="#what-is-malware">O que são malware?</a></li>
+            <li><a href="#how-can-i-tell-if-i-have-a-malware-infection">Como posso identificar se houve infecção por malware?</a></li>
+            <li><a href="#how-do-i-get-malware">Como fui infectado com malware? </a></li>
+            <li><a href="#what-are-the-most-common-forms-of-malware">Quais são as formas mais comuns de malware? </a></li>
+            <li><a href="#what-is-the-history-of-malware">O que é o histórico de malware?</a></li>
+            <li><a href="#do-macs-get-malware">Macs podem ser infectados por malware?</a></li>
+            <li><a href="#do-mobile-devices-get-malware">Os dispositivos móveis são infectados por malware?</a></li>
+            <li><a href="#how-can-i-tell-if-my-android-device-has-malware">Como posso identificar se meu dispositivo Android está infectado por malware?</a></li>
+            <li><a href="#how-can-i-tell-if-my-iphone-or-ipad-has-malware">Como posso identificar se meu iPhone ou iPad foi infectado por malware?</a></li>
+            <li><a href="#who-does-malware-target">Qual o alvo de um malware?</a></li>
+            <li><a href="#how-can-i-remove-malware">Como posso remover um malware?</a></li>
+            <li><a href="#how-can-i-protect-myself-from-malware">Como posso me proteger de malware?</a></li>
           </ul>
         </div>
 
@@ -448,4 +437,22 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
          integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
+  <script>
+    
+document.addEventListener("DOMContentLoaded", function() {
+  var sidebar = document.querySelector('.sidebar');
+  var container = document.querySelector('.container');
+  var offsetTop = container.offsetTop;
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > offsetTop) {
+      sidebar.classList.add('fixed');
+    } else {
+      sidebar.classList.remove('fixed');
+    }
+  });
+});
+
+
+  </script>
 </html>

@@ -8,6 +8,14 @@
   width: 15%;
   height: 80vh;
   overflow-y: auto;
+  transition: all 0.3s ease-in-out;
+}
+
+.sidebar.fixed {
+  position: fixed;
+  top: 0;
+  left: 1rem;
+  background-color: #f4f4f4; /* Adiciona um fundo à barra lateral para visibilidade */
 }
 
 .sidebar h2 {
@@ -45,6 +53,7 @@
 }
 
 .learn-text-container {
+  margin-left: 18%; /* Ajusta o espaço à esquerda para a barra lateral fixa */
   max-width: 75%;
   align-self: flex-start;
 }
@@ -66,7 +75,14 @@
     overflow-y: visible;
   }
 
+  .sidebar.fixed {
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+
   .learn-text-container {
+    margin-left: 0;
     max-width: 100%;
   }
 }

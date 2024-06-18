@@ -1,21 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
 .container {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 5rem;
+}
+
+.sidebar-placeholder {
+  width: 15%;
+  height: 80vh;
+  visibility: hidden; 
 }
 
 .sidebar {
   width: 15%;
   height: 80vh;
   overflow-y: auto;
-  transition: all 0.3s ease-in-out;
+  transition: top 0.3s ease-in-out, left 0.3s ease-in-out;
 }
 
 .sidebar.fixed {
   position: fixed;
-  top: 0;
-  left: 1rem;
-  background-color: #f4f4f4; /* Adiciona um fundo à barra lateral para visibilidade */
+  top: 5rem;
+  left: 5rem; 
+  background-color: #f4f4f4;
 }
 
 .sidebar h2 {
@@ -53,7 +63,7 @@
 }
 
 .learn-text-container {
-  margin-left: 18%; /* Ajusta o espaço à esquerda para a barra lateral fixa */
+  margin-left: 1rem; 
   max-width: 75%;
   align-self: flex-start;
 }
@@ -79,6 +89,7 @@
     position: relative;
     top: auto;
     left: auto;
+    width: 100%;
   }
 
   .learn-text-container {

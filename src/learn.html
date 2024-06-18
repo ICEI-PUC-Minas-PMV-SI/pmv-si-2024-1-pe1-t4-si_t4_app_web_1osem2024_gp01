@@ -51,6 +51,7 @@
         />
       </section>
       <div class="container">
+        <div class="sidebar-placeholder"></div> 
         <div class="sidebar">
           <h2>Malware</h2>
           <ul>
@@ -447,12 +448,13 @@ document.addEventListener("DOMContentLoaded", function() {
   window.addEventListener('scroll', function() {
     if (window.pageYOffset > offsetTop) {
       sidebar.classList.add('fixed');
+      sidebar.style.width = "200px"; // Define a largura da sidebar quando fixa
     } else {
       sidebar.classList.remove('fixed');
+      sidebar.style.width = "2000px"; // Restaura a largura original da sidebar
     }
   });
 });
-
 
   </script>
 </html>

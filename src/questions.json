@@ -1,0 +1,444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que é phishing?",
+      "options": [
+        "Um tipo de software de firewall",
+        "Um método para criptografar e-mails",
+        "Uma técnica de engenharia social para roubar informações sensíveis",
+        "Um tipo de vírus que corrompe arquivos de sistema"
+      ],
+      "correct_option": "Uma técnica de engenharia social para roubar informações sensíveis"
+    },
+    {
+      "id": 2,
+      "question": "Qual é a principal função de um firewall?",
+      "options": [
+        "Analisar a velocidade da internet",
+        "Monitorar e controlar o tráfego de rede com base em regras de segurança predefinidas",
+        "Detectar e remover vírus",
+        "Fazer backup de dados"
+      ],
+      "correct_option": "Monitorar e controlar o tráfego de rede com base em regras de segurança predefinidas"
+    },
+    {
+      "id": 3,
+      "question": "O que significa o termo 'malware'?",
+      "options": [
+        "Software que otimiza o desempenho do computador",
+        "Hardware projetado para segurança de rede",
+        "Qualquer software projetado para causar danos ao computador",
+        "Ferramenta de recuperação de dados"
+      ],
+      "correct_option": "Qualquer software projetado para causar danos ao computador"
+    },
+    {
+      "id": 4,
+      "question": "Qual dos seguintes é um exemplo de autenticação de dois fatores (2FA)?",
+      "options": [
+        "Usar uma senha e um PIN",
+        "Usar uma senha e uma pergunta de segurança",
+        "Usar uma senha e um código enviado por SMS",
+        "Usar duas senhas diferentes"
+      ],
+      "correct_option": "Usar uma senha e um código enviado por SMS"
+    },
+    {
+      "id": 5,
+      "question": "Qual é o propósito de um software antivírus?",
+      "options": [
+        "Melhorar a velocidade do sistema operacional",
+        "Proteger contra programas maliciosos",
+        "Gerenciar o uso de aplicativos no computador",
+        "Bloquear sites de mídia social"
+      ],
+      "correct_option": "Proteger contra programas maliciosos"
+    },
+    {
+      "id": 6,
+      "question": "O que é ransomware?",
+      "options": [
+        "Um tipo de firewall avançado",
+        "Software que criptografa arquivos do usuário e exige um pagamento para liberá-los",
+        "Um programa para recuperar dados perdidos",
+        "Um método de backup de dados"
+      ],
+      "correct_option": "Software que criptografa arquivos do usuário e exige um pagamento para liberá-los"
+    },
+    {
+      "id": 7,
+      "question": "Qual das seguintes práticas ajuda a proteger senhas?",
+      "options": [
+        "Usar a mesma senha para todas as contas",
+        "Escrever senhas em um bloco de notas ao lado do computador",
+        "Usar senhas longas e complexas, e mudá-las regularmente",
+        "Compartilhar senhas com colegas de confiança"
+      ],
+      "correct_option": "Usar senhas longas e complexas, e mudá-las regularmente"
+    },
+    {
+      "id": 8,
+      "question": "O que é uma VPN (Virtual Private Network)?",
+      "options": [
+        "Um tipo de malware",
+        "Uma rede local sem fio",
+        "Uma tecnologia que cria uma conexão segura através da internet",
+        "Um dispositivo de hardware para backup de dados"
+      ],
+      "correct_option": "Uma tecnologia que cria uma conexão segura através da internet"
+    },
+    {
+      "id": 9,
+      "question": "O que é um ataque de força bruta?",
+      "options": [
+        "Um ataque que utiliza software malicioso para danificar hardware",
+        "Uma tentativa de adivinhar senhas através de todas as combinações possíveis",
+        "Um tipo de ataque de phishing direcionado",
+        "Uma falha no software que permite acesso não autorizado"
+      ],
+      "correct_option": "Uma tentativa de adivinhar senhas através de todas as combinações possíveis"
+    },
+    {
+      "id": 10,
+      "question": "Qual é a finalidade do HTTPS em um site?",
+      "options": [
+        "Aumentar a velocidade de carregamento da página",
+        "Proteger a transferência de dados entre o usuário e o site através de criptografia",
+        "Bloquear anúncios indesejados",
+        "Permitir acesso anônimo ao site"
+      ],
+      "correct_option": "Proteger a transferência de dados entre o usuário e o site através de criptografia"
+    },
+    {
+      "id": 11,
+      "question": "Qual é a definição de engenharia social em cibersegurança?",
+      "options": [
+        "O uso de algoritmos para proteger dados",
+        "Manipulação psicológica para obter informações confidenciais",
+        "Criação de firewalls personalizados",
+        "Análise de tráfego de rede"
+      ],
+      "correct_option": "Manipulação psicológica para obter informações confidenciais"
+    },
+    {
+      "id": 12,
+      "question": "O que é uma rede botnet?",
+      "options": [
+        "Um tipo de rede local segura",
+        "Um conjunto de dispositivos comprometidos controlados por um atacante",
+        "Um software para monitoramento de rede",
+        "Um método de criptografia de dados"
+      ],
+      "correct_option": "Um conjunto de dispositivos comprometidos controlados por um atacante"
+    },
+    {
+      "id": 13,
+      "question": "O que significa a sigla DDoS?",
+      "options": [
+        "Data Distribution over Secure networks",
+        "Distributed Denial of Service",
+        "Data Deletion on Security breach",
+        "Digital Data Operational System"
+      ],
+      "correct_option": "Distributed Denial of Service"
+    },
+    {
+      "id": 14,
+      "question": "Qual é a principal função de uma ferramenta de criptografia?",
+      "options": [
+        "Melhorar o desempenho do computador",
+        "Proteger dados convertendo-os em um formato ilegível para não autorizados",
+        "Remover vírus e malware",
+        "Monitorar a atividade online do usuário"
+      ],
+      "correct_option": "Proteger dados convertendo-os em um formato ilegível para não autorizados"
+    },
+    {
+      "id": 15,
+      "question": "O que significa 'zero-day' em cibersegurança?",
+      "options": [
+        "Um vírus que afeta o sistema no primeiro dia do mês",
+        "Uma vulnerabilidade desconhecida para a qual não existe ainda um patch ou correção",
+        "Um ataque que ocorre imediatamente após uma atualização de software",
+        "Uma ferramenta de backup automático"
+      ],
+      "correct_option": "Uma vulnerabilidade desconhecida para a qual não existe ainda um patch ou correção"
+    },
+    {
+      "id": 16,
+      "question": "O que é um certificado digital?",
+      "options": [
+        "Um documento impresso validando um curso de segurança",
+        "Uma credencial eletrônica que confirma a identidade de uma entidade na internet",
+        "Um software para remover spyware",
+        "Um componente de hardware para armazenamento de senhas"
+      ],
+      "correct_option": "Uma credencial eletrônica que confirma a identidade de uma entidade na internet"
+    },
+    {
+      "id": 17,
+      "question": "Qual é a principal vantagem do uso de autenticação biométrica?",
+      "options": [
+        "É mais barata que outras formas de autenticação",
+        "Facilita a troca de informações entre dispositivos",
+        "Oferece uma forma mais segura de verificar a identidade do usuário",
+        "Permite o uso de senhas mais curtas"
+      ],
+      "correct_option": "Oferece uma forma mais segura de verificar a identidade do usuário"
+    },
+    {
+      "id": 18,
+      "question": "O que é spear phishing?",
+      "options": [
+        "Um ataque de phishing altamente direcionado a um indivíduo ou organização específica",
+        "Um ataque de phishing que utiliza malware para infectar dispositivos",
+        "Um método de proteção contra ataques de phishing",
+        "Um software de firewall"
+      ],
+      "correct_option": "Um ataque de phishing altamente direcionado a um indivíduo ou organização específica"
+    },
+    {
+      "id": 19,
+      "question": "Qual das opções a seguir é um exemplo de boas práticas de segurança de e-mail?",
+      "options": [
+        "Clicar em links de e-mails de remetentes desconhecidos",
+        "Compartilhar informações confidenciais através de e-mails não criptografados",
+        "Verificar a autenticidade dos remetentes antes de abrir anexos",
+        "Usar senhas fáceis de lembrar para contas de e-mail"
+      ],
+      "correct_option": "Verificar a autenticidade dos remetentes antes de abrir anexos"
+    },
+    {
+      "id": 20,
+      "question": "Qual é a principal função de uma política de segurança da informação?",
+      "options": [
+        "Gerenciar a manutenção de hardware",
+        "Definir diretrizes e procedimentos para proteger os ativos de informação de uma organização",
+        "Melhorar a produtividade dos funcionários",
+        "Criar backups automáticos de todos os dados"
+      ],
+      "correct_option": "Definir diretrizes e procedimentos para proteger os ativos de informação de uma organização"
+    },
+    {
+      "id": 21,
+      "question": "O que é um rootkit?",
+      "options": [
+        "Um programa que fornece acesso não autorizado ao sistema enquanto permanece oculto",
+        "Um tipo de firewall avançado",
+        "Um dispositivo para armazenamento seguro de senhas",
+        "Um software de criptografia de e-mails"
+      ],
+      "correct_option": "Um programa que fornece acesso não autorizado ao sistema enquanto permanece oculto"
+    },
+    {
+      "id": 22,
+      "question": "Qual das seguintes opções é uma medida preventiva contra ransomware?",
+      "options": [
+        "Desativar o firewall do sistema",
+        "Realizar backups regulares dos dados importantes",
+        "Usar a mesma senha para todas as contas",
+        "Abrir e-mails de remetentes desconhecidos"
+      ],
+      "correct_option": "Realizar backups regulares dos dados importantes"
+    },
+    {
+      "id": 23,
+      "question": "O que é um ataque man-in-the-middle (MitM)?",
+      "options": [
+        "Um ataque em que um atacante intercepta e possivelmente altera a comunicação entre duas partes",
+        "Um ataque que desabilita o firewall de um sistema",
+        "Um software de monitoramento de rede",
+        "Uma técnica de criptografia"
+      ],
+      "correct_option": "Um ataque em que um atacante intercepta e possivelmente altera a comunicação entre duas partes"
+    },
+    {
+      "id": 24,
+      "question": "O que significa a sigla IoT em cibersegurança?",
+      "options": [
+        "Internet of Things",
+        "Information of Technology",
+        "Input/Output Tracking",
+        "Internet Operational Tool"
+      ],
+      "correct_option": "Internet of Things"
+    },
+    {
+      "id": 25,
+      "question": "Qual das seguintes opções é uma prática recomendada ao criar uma senha?",
+      "options": [
+        "Usar apenas letras minúsculas",
+        "Incluir uma combinação de letras, números e caracteres especiais",
+        "Usar datas de nascimento",
+        "Usar a palavra 'senha'"
+      ],
+      "correct_option": "Incluir uma combinação de letras, números e caracteres especiais"
+    },
+    {
+      "id": 26,
+      "question": "O que é um ataque de 'watering hole'?",
+      "options": [
+        "Um ataque que infecta websites frequentemente visitados por um alvo específico",
+        "Um tipo de malware que criptografa arquivos",
+        "Um método de backup de dados",
+        "Um software para remover vírus"
+      ],
+      "correct_option": "Um ataque que infecta websites frequentemente visitados por um alvo específico"
+    },
+    {
+      "id": 27,
+      "question": "Qual é a função de um honeypot em cibersegurança?",
+      "options": [
+        "Proteger contra vírus e malware",
+        "Atrair e detectar tentativas de ataque cibernético",
+        "Monitorar o desempenho da rede",
+        "Criptografar dados confidenciais"
+      ],
+      "correct_option": "Atrair e detectar tentativas de ataque cibernético"
+    },
+    {
+      "id": 28,
+      "question": "O que é spoofing?",
+      "options": [
+        "Enviar mensagens falsas para enganar os destinatários",
+        "Monitorar a atividade de rede de um usuário",
+        "Um método de criptografia de dados",
+        "Um software de firewall"
+      ],
+      "correct_option": "Enviar mensagens falsas para enganar os destinatários"
+    },
+    {
+      "id": 29,
+      "question": "Qual é a definição de sniffing em redes?",
+      "options": [
+        "O uso de um software antivírus",
+        "Interceptação e análise do tráfego de rede",
+        "Criação de redes seguras",
+        "Backup automático de dados"
+      ],
+      "correct_option": "Interceptação e análise do tráfego de rede"
+    },
+    {
+      "id": 30,
+      "question": "O que é um trojan horse (cavalo de troia)?",
+      "options": [
+        "Um software legítimo que protege contra malware",
+        "Um tipo de malware que se disfarça de software legítimo para enganar os usuários",
+        "Um dispositivo de hardware para segurança de rede",
+        "Um método de autenticação de dois fatores"
+      ],
+      "correct_option": "Um tipo de malware que se disfarça de software legítimo para enganar os usuários"
+    },
+    {
+      "id": 31,
+      "question": "Qual das seguintes opções é um exemplo de ataque de engenharia social?",
+      "options": [
+        "Um ataque DDoS",
+        "Um ataque de phishing",
+        "Um ataque de força bruta",
+        "Um ataque de SQL injection"
+      ],
+      "correct_option": "Um ataque de phishing"
+    },
+    {
+      "id": 32,
+      "question": "Qual é a função de um IDS (Intrusion Detection System)?",
+      "options": [
+        "Bloquear todos os acessos à rede",
+        "Detectar e alertar sobre atividades suspeitas ou maliciosas na rede",
+        "Realizar backups automáticos dos dados",
+        "Criptografar comunicações de e-mail"
+      ],
+      "correct_option": "Detectar e alertar sobre atividades suspeitas ou maliciosas na rede"
+    },
+    {
+      "id": 33,
+      "question": "O que é SQL injection?",
+      "options": [
+        "Uma técnica para melhorar a segurança de banco de dados",
+        "Um tipo de ataque que explora vulnerabilidades em consultas SQL para acessar dados não autorizados",
+        "Um método de backup de banco de dados",
+        "Uma ferramenta para monitorar a performance do banco de dados"
+      ],
+      "correct_option": "Um tipo de ataque que explora vulnerabilidades em consultas SQL para acessar dados não autorizados"
+    },
+    {
+      "id": 34,
+      "question": "O que é um 'worm' em cibersegurança?",
+      "options": [
+        "Um programa que se replica automaticamente e se espalha para outros computadores",
+        "Um software de firewall avançado",
+        "Um tipo de autenticação biométrica",
+        "Um método de criptografia"
+      ],
+      "correct_option": "Um programa que se replica automaticamente e se espalha para outros computadores"
+    },
+    {
+      "id": 35,
+      "question": "Qual das seguintes opções é um exemplo de boas práticas de segurança de rede?",
+      "options": [
+        "Compartilhar senhas de rede com todos os usuários",
+        "Usar apenas uma camada de segurança",
+        "Implementar a segmentação de rede para limitar o acesso",
+        "Desativar atualizações automáticas de software"
+      ],
+      "correct_option": "Implementar a segmentação de rede para limitar o acesso"
+    },
+    {
+      "id": 36,
+      "question": "O que é um certificado SSL?",
+      "options": [
+        "Um tipo de malware que afeta servidores web",
+        "Uma ferramenta de monitoramento de rede",
+        "Um protocolo de segurança para estabelecer uma conexão criptografada entre um servidor web e um navegador",
+        "Um método de backup de dados"
+      ],
+      "correct_option": "Um protocolo de segurança para estabelecer uma conexão criptografada entre um servidor web e um navegador"
+    },
+    {
+      "id": 37,
+      "question": "Qual das opções a seguir descreve corretamente a função de um proxy?",
+      "options": [
+        "Um dispositivo que protege contra vírus",
+        "Um servidor que atua como intermediário entre o usuário e a internet, filtrando solicitações e respostas",
+        "Um método de autenticação",
+        "Um software de criptografia de dados"
+      ],
+      "correct_option": "Um servidor que atua como intermediário entre o usuário e a internet, filtrando solicitações e respostas"
+    },
+    {
+      "id": 38,
+      "question": "Qual é a definição de uma vulnerabilidade de dia zero (zero-day)?",
+      "options": [
+        "Uma vulnerabilidade que já foi corrigida",
+        "Uma vulnerabilidade desconhecida por desenvolvedores e para a qual não existe correção disponível",
+        "Um tipo de malware que se espalha rapidamente",
+        "Um método de autenticação de dois fatores"
+      ],
+      "correct_option": "Uma vulnerabilidade desconhecida por desenvolvedores e para a qual não existe correção disponível"
+    },
+    {
+      "id": 39,
+      "question": "Qual é o objetivo de um ataque de cross-site scripting (XSS)?",
+      "options": [
+        "Injetar scripts maliciosos em páginas web visualizadas por outros usuários",
+        "Desativar o firewall de um servidor",
+        "Realizar backups automáticos de dados",
+        "Monitorar o tráfego de rede"
+      ],
+      "correct_option": "Injetar scripts maliciosos em páginas web visualizadas por outros usuários"
+    },
+    {
+      "id": 40,
+      "question": "O que é a GDPR (General Data Protection Regulation)?",
+      "options": [
+        "Um protocolo de segurança de rede",
+        "Uma legislação da União Europeia para proteger a privacidade e os dados pessoais dos cidadãos",
+        "Um software de criptografia de e-mails",
+        "Um método de autenticação de dois fatores"
+      ],
+      "correct_option": "Uma legislação da União Europeia para proteger a privacidade e os dados pessoais dos cidadãos"
+    }
+  ]
+}

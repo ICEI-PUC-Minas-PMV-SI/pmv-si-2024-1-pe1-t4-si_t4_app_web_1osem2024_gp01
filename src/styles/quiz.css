@@ -2,9 +2,39 @@
   display: flex;
   flex-direction: column;
   width: 100%;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: flex-start;
   padding: 1rem 0;
+}
+
+#submitQuiz{
+  margin: 0 auto;
+}
+
+#quizContainer ul{
+  list-style: none;
+}
+
+#quizContainer {
+  width: 80%;
+  margin: 0 auto;
+}
+.question {
+  margin-bottom: 20px;
+}
+.question h3 {
+  margin: 0 0 10px 0;
+}
+.question ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.question li {
+  margin: 5px 0;
+}
+.question label {
+  margin-left: 5px;
 }
 
 .card-quiz {

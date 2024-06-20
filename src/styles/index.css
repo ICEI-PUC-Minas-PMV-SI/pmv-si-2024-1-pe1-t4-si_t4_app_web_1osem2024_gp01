@@ -96,9 +96,8 @@ footer p{
     color: rgb(96, 95, 95);
   }
   
-  
-   
- 
-  
-   
-
+/* Estilos personalizados */
+.navbar .dropdown-menu-left {
+    right: auto;
+    left: 0;
+}

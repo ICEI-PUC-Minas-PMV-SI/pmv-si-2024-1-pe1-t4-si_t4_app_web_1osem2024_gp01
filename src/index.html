@@ -32,11 +32,15 @@
                     <li class="nav-item">
                         <a href="alerta2.html" class="nav-link">Alerta</a>
                     </li>
-                    <li class="nav-item">
-                        <a href="login.html" class="nav-link">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="cadastro.html" class="nav-link">Registrar</a>
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <img src="imagens/menu-bar.png" alt="Usuário" width="30" height="30" class="rounded-circle">
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-left" aria-labelledby="userDropdown">
+                                <h6 class="dropdown-header">Você não está conectado</h6>
+                                <a class="dropdown-item" href="login.html">Entrar</a>
+                                <a class="dropdown-item" href="cadastro.html">Registrar</a>
+                            </div>
                     </li>
                 </ul>
                 <form class="form-inline d-flex">
@@ -111,6 +115,13 @@
         <div id="barr"></div>
     </footer>
 
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS e dependências JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Seu arquivo JavaScript personalizado -->
+    <script src="scripts.js"></script>
 </body>
 </html>

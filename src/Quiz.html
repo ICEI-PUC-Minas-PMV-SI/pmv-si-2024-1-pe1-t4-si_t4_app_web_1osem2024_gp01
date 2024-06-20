@@ -111,17 +111,17 @@
 
                 question.options.forEach((option, optionIndex) => {
                     const optionItem = document.createElement('li');
-                    
+
                     const radioInput = document.createElement('input');
                     radioInput.type = 'radio';
                     radioInput.name = `question-${index}`;
                     radioInput.value = option;
                     radioInput.id = `question-${index}-option-${optionIndex}`;
-                    
+
                     const optionLabel = document.createElement('label');
                     optionLabel.htmlFor = radioInput.id;
                     optionLabel.textContent = option;
-                    
+
                     optionItem.appendChild(radioInput);
                     optionItem.appendChild(optionLabel);
                     optionsList.appendChild(optionItem);
@@ -137,7 +137,7 @@
             let randomQuestions = getRandomQuestions(json.questions, 5);
             createQuizElements(randomQuestions);
 
-            document.getElementById('submitQuiz').onclick = function () {
+            document.getElementById('submitQuiz').onclick = async function () {
                 const correctAnswers = {};
                 randomQuestions.forEach((q, index) => {
                     correctAnswers[`question-${index}`] = q.correct_option;
@@ -147,8 +147,8 @@
                 const totalQuestions = randomQuestions.length;
 
                 // Verificar se todas as perguntas foram respondidas.
-                let allAnswered = true; 
-    
+                let allAnswered = true;
+
                 for (let i = 0; i < totalQuestions; i++) {
                     const userAnswer = document.querySelector(`input[name="question-${i}"]:checked`);
                     if (!userAnswer) {
@@ -156,13 +156,13 @@
                         break;
                     }
                 }
-    
+
                 // Caso não haja pergunta sem resposta, retorna o alerta.
                 if (!allAnswered) {
                     alert("Por favor, responda todas as perguntas antes de finalizar o quiz.");
                     return;
                 }
-                
+
                 // Contabiliza e mostra se o usuário errou ou acertou a questão.
                 for (let i = 0; i < totalQuestions; i++) {
                     const userAnswer = document.querySelector(`input[name="question-${i}"]:checked`);
@@ -176,9 +176,14 @@
                         }
                     }
                 }
-    
+
+                const authToken = await localStorage.getItem('authToken');
+                const tokenContent = await JSON.parse(atob(authToken));
+                const userEmail = tokenContent.email;
+
                 // Salvar os dados do quiz no localStorage
                 const attempt = {
+                    userEmail,
                     date: new Date().toLocaleString(),
                     score: score,
                     totalQuestions: totalQuestions
@@ -186,7 +191,7 @@
                 let attempts = JSON.parse(localStorage.getItem('quizAttempts')) || [];
                 attempts.push(attempt);
                 localStorage.setItem('quizAttempts', JSON.stringify(attempts));
-    
+
                 // Mostra o modal com a quantidade de acertos do usuário.
                 const scoreElement = document.getElementById('score');
                 scoreElement.textContent = `Você acertou ${score} de ${totalQuestions} perguntas.`;

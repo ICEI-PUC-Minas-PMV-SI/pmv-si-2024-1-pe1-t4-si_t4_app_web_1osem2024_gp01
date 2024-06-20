@@ -34,17 +34,19 @@ document.getElementById('loginForm').addEventListener('submit', async (event) =>
     return;
   }
 
-  const token = generateToken(email);
+  const token = generateToken(user.name, email);
   localStorage.setItem('authToken', token);
 
   alert('Autenticado com sucesso!');
   window.location.href = 'index.html';
 });
 
-function generateToken(email) {
+function generateToken(name, email) {
   const tokenObject = {
-    email: email,
+    name,
+    email,
     timestamp: Date.now()
   };
+
   return btoa(JSON.stringify(tokenObject));
 }

@@ -7,12 +7,15 @@
     <link rel="stylesheet" href="styles/global-styles.css" />
     <link rel="stylesheet" href="styles/start-quiz.css" />
     <link href="/src/bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/css/bootstrap.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/styles/global-styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-md p-3 mb-0 bg-info text-muted">
-            <a href="#" class="navbar-brand bebas-neue-regular">InfoShield.com</a>
+            <a href="../src/index.html" class="navbar-brand bebas-neue-regular">InfoShield.com</a>
             <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#teste">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -25,7 +28,7 @@
                         <a href="../src/Password.html" class="nav-link">Senhas</a>
                     </li>
                     <li class="nav-item">
-                        <a href="/src/Quiz.html" class="nav-link active">Quiz</a>
+                        <a href="../src/start-quiz.html" class="nav-link active">Quiz</a>
                     </li>
                     <li class="nav-item">
                         <a href="../src/learn.html" class="nav-link">Aprenda</a>
@@ -33,6 +36,13 @@
                     <li class="nav-item">
                         <a href="../src/alerta2.html" class="nav-link">Alerta</a>
                     </li>
+                    <li class="nav-item" id="login-item">
+                        <a href="../src/login.html" class="nav-link">Login</a>
+                    </li>
+                    <li class="nav-item" id="register-item">
+                        <a href="../src/cadastro.html" class="nav-link">Registrar</a>
+                    </li>
+                </ul>
                 </ul>
                 <form class="form-inline d-flex">
                     <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
@@ -108,5 +118,6 @@
         // Chamar a função para carregar as tentativas quando a página carregar
         window.onload = loadQuizAttempts;
     </script>
+    <script src="./scripts/authenticated-navbar.js"></script>
 </body>
 </html>
